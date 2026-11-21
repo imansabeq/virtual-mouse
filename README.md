@@ -10,7 +10,8 @@
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?logo=google\&logoColor=white" alt="MediaPipe">
   <img src="https://img.shields.io/badge/PyAutoGUI-333333" alt="PyAutoGUI">
 </p>
-<p align="center"><img src="docs/demo.gif" width="70%" alt="Demo"></p>
+<img width="1394" height="411" alt="demo" src="https://github.com/user-attachments/assets/46e13ef5-2b39-4ca9-a235-0bc3129b6805" />
+</p>
 
 \---
 
